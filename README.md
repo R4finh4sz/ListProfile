@@ -18,4 +18,4 @@ Este projeto foi desenvolvido com **React Native** baseado nas práticas da **Ro
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/R4finh4sz/ListProfile.git
+   git clone https://github.com/R4finh4sz/To-Do-List.git
